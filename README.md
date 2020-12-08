@@ -17,3 +17,4 @@ Each puzzle consists of two parts. On successfully solving the first part, the s
 * [Day 5](https://github.com/mnhtrieu/advent2020/tree/master/5_day) - Binary Boarding | PART 1: `864` | PART 2: `739` 
 * [Day 6](https://github.com/mnhtrieu/advent2020/tree/master/6_day) - Custom Customs | PART 1: `6506` | PART 2: `3243` 
 * [Day 7](https://github.com/mnhtrieu/advent2020/tree/master/7_day) - Handy Haversacks | PART 1: `337` | PART 2: `50100` 
+* [Day 8](https://github.com/mnhtrieu/advent2020/tree/master/8_day) - Handheld Halting | PART 1: `1832` | PART 2: `662` 

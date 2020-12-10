@@ -19,3 +19,4 @@ Each puzzle consists of two parts. On successfully solving the first part, the s
 * [Day 7](https://github.com/mnhtrieu/advent2020/tree/master/7_day) - Handy Haversacks | PART 1: `337` | PART 2: `50100` 
 * [Day 8](https://github.com/mnhtrieu/advent2020/tree/master/8_day) - Handheld Halting | PART 1: `1832` | PART 2: `662` 
 * [Day 9](https://github.com/mnhtrieu/advent2020/tree/master/9_day) - Encoding Error | PART 1: `552655238` | PART 2: `70672245` 
+* [Day 10](https://github.com/mnhtrieu/advent2020/tree/master/9_day) - Encoding Error | PART 1: `1917` | PART 2: `113387824750592` 

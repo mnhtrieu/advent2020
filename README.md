@@ -23,3 +23,4 @@ Each puzzle consists of two parts. On successfully solving the first part, the s
 * [Day 11](https://github.com/mnhtrieu/advent2020/tree/master/11_day) - Seating System | PART 1: `2296` | PART 2: `2089` 
 * [Day 12](https://github.com/mnhtrieu/advent2020/tree/master/12_day) - Encoding Error | PART 1: `1106` | PART 2: `107281` 
 * [Day 13](https://github.com/mnhtrieu/advent2020/tree/master/13_day) - Shuttle Search | PART 1: `6568` | PART 2: `554865447501099`
+* [Day 14](https://github.com/mnhtrieu/advent2020/tree/master/14_day) - Docking Data | PART 1: `13865835758282` | PART 2: `4195339838136`

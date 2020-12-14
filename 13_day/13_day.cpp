@@ -19,6 +19,11 @@ void part_2(const string & file);
 vector<ll> explode(string const & s, char delim);
 ll inv(ll a, ll m);
 
+ll & operator*=(ll & a, const string & str) {
+  a *= str.size();
+  return a;
+}
+
 int main(int argc, const char ** argv){
   ios::sync_with_stdio(0);cin.tie(0);
   
@@ -29,6 +34,12 @@ int main(int argc, const char ** argv){
 
   part_1(file);
   part_2(file);
+
+
+  ll a = 5;
+  string str("test");
+  a *= str;
+  cout << a << endl;
   return 0;
 }
 

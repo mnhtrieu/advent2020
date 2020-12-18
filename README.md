@@ -25,5 +25,6 @@ Each puzzle consists of two parts. On successfully solving the first part, the s
 * [Day 13](https://github.com/mnhtrieu/advent2020/tree/master/13_day) - Shuttle Search | PART 1: `6568` | PART 2: `554865447501099`
 * [Day 14](https://github.com/mnhtrieu/advent2020/tree/master/14_day) - Docking Data | PART 1: `13865835758282` | PART 2: `4195339838136`
 * [Day 15](https://github.com/mnhtrieu/advent2020/tree/master/15_day) - Rambunctious Recitation | PART 1: `1194` | PART 2: `48710`
-* [Day 16](https://github.com/mnhtrieu/advent2020/tree/master/16_day) - Ticket Translation | PART 2: `23954` | PART 2: `453459307723`
-* [Day 17](https://github.com/mnhtrieu/advent2020/tree/master/17_day) - Conway Cubes | PART 2: `306` | PART 2: `2572`
+* [Day 16](https://github.com/mnhtrieu/advent2020/tree/master/16_day) - Ticket Translation | PART 1: `23954` | PART 2: `453459307723`
+* [Day 17](https://github.com/mnhtrieu/advent2020/tree/master/17_day) - Conway Cubes | PART 1: `306` | PART 2: `2572`
+* [Day 18](https://github.com/mnhtrieu/advent2020/tree/master/18_day) - Operation Order | PART 1: `53660285675207` | PART 2: `141993988282687`

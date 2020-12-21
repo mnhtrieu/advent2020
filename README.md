@@ -30,3 +30,4 @@ Each puzzle consists of two parts. On successfully solving the first part, the s
 * [Day 18](https://github.com/mnhtrieu/advent2020/tree/master/18_day) - Operation Order | PART 1: `53660285675207` | PART 2: `141993988282687`
 * Day 19 - Operation Order | PART 1: `53660285675207` | PART 2: `141993988282687` (deleted code by mistake)
 * [Day 20](https://github.com/mnhtrieu/advent2020/tree/master/20_day) - Jurassic Jigsaw | PART 1: `17148689442341` | PART 2: `2009`
+* [Day 21](https://github.com/mnhtrieu/advent2020/tree/master/21_day) - Allergen Assessment | PART 1: `1885` | PART 2: `fllssz,kgbzf,zcdcdf,pzmg,kpsdtv,fvvrc,dqbjj,qpxhfp`

@@ -28,7 +28,7 @@ Each puzzle consists of two parts. On successfully solving the first part, the s
 * [Day 16](https://github.com/mnhtrieu/advent2020/tree/master/16_day) - Ticket Translation | PART 1: `23954` | PART 2: `453459307723`
 * [Day 17](https://github.com/mnhtrieu/advent2020/tree/master/17_day) - Conway Cubes | PART 1: `306` | PART 2: `2572`
 * [Day 18](https://github.com/mnhtrieu/advent2020/tree/master/18_day) - Operation Order | PART 1: `53660285675207` | PART 2: `141993988282687`
-* Day 19 - Operation Order | PART 1: `53660285675207` | PART 2: `141993988282687` (deleted code by mistake)
+* Day 19 - Monster Messages | PART 1: `192` | PART 2: `296` (deleted code by mistake)
 * [Day 20](https://github.com/mnhtrieu/advent2020/tree/master/20_day) - Jurassic Jigsaw | PART 1: `17148689442341` | PART 2: `2009`
 * [Day 21](https://github.com/mnhtrieu/advent2020/tree/master/21_day) - Allergen Assessment | PART 1: `1885` | PART 2: `fllssz,kgbzf,zcdcdf,pzmg,kpsdtv,fvvrc,dqbjj,qpxhfp`
 * [Day 22](https://github.com/mnhtrieu/advent2020/tree/master/22_day) - Crab Combat | PART 1: `32179` | PART 2: `30498`

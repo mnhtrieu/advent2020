@@ -34,3 +34,4 @@ Each puzzle consists of two parts. On successfully solving the first part, the s
 * [Day 22](https://github.com/mnhtrieu/advent2020/tree/master/22_day) - Crab Combat | PART 1: `32179` | PART 2: `30498`
 * [Day 23](https://github.com/mnhtrieu/advent2020/tree/master/23_day) - Crab Cups | PART 1: `65432978` | PART 2: `287230227046`
 * [Day 24](https://github.com/mnhtrieu/advent2020/tree/master/24_day) - Lobby Layout | PART 1: `500` | PART 2: `4280`
+* [Day 25](https://github.com/mnhtrieu/advent2020/tree/master/25_day) - Combo Breaker | `17032383` 
